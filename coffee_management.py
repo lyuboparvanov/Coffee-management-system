@@ -6,7 +6,6 @@ from tkinter import messagebox
 
 
 
-
 class cafe_management():
 
     # ============== Total Bill Code =================
