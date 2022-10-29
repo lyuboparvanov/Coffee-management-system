@@ -5,7 +5,6 @@ from PIL import ImageTk, Image
 from tkinter import messagebox
 
 
-
 class cafe_management():
 
     # ============== Total Bill Code =================
